@@ -1,0 +1,1 @@
+void AssertIntEqual(int expected, int actual);
